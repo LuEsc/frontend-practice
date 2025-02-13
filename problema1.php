@@ -66,7 +66,7 @@ function examen($iMin, $iMax, &$aDatos){
 				$aDatos[$i] = "BAR";
 				break;
 			default:
-				$aDia[$i] = "";
+				$aDatos[$i] = "";
 		}
 	}	
 
